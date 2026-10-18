@@ -1,0 +1,12 @@
+{
+  "dump_status": "EMPTY_READY_FOR_MOBILE_PASTE",
+  "last_harvested_ist": "Never",
+  "last_taken_count": 0,
+  "last_duplicate_skipped_count": 0,
+  "last_discarded_count": 0,
+  "last_target_chapter": "None",
+  "HOW_TO_CHOOSE_CHAPTER_ON_MOBILE": "OPTION 1 (New Chapter): Type a name in 'new_chapter' below to create a new chapter. OPTION 2 (Append to Existing Chapter): Simply DELETE the chapter name you want from 'existing_chapters_delete_one_to_select' below! OPTION 3 (Default): Leave both untouched to save into Today's Chapter (19_oct_26_chapter.json).",
+  "new_chapter": "",
+  "existing_chapters_delete_one_to_select": [],
+  "questions": []
+}
