@@ -1,3 +1,30 @@
 [
-
+  {
+    "id": "19_oct_26_118573",
+    "question": "Which Himalayan pass connectsdfs Srinagar with Leh?",
+    "options": [
+      "1. Nathu La",
+      "2. Zoji La",
+      "3. Rohtang Pass",
+      "4. Shipki La"
+    ],
+    "answer": "2",
+    "explanation": "Zoji La is a high mounsdftain pass in the Himalayas connecting the Kashmir Valley to Ladakh.",
+    "difficulty_level": "Medium",
+    "exam_year": "UPSC 2022",
+    "check_status": "checked"
+  },
+  {
+    "id": "19_oct_26_822795",
+    "question": "True or False: The Karakoram Psdfsdfsdfass lies between sdfsdfIndia and China (2-Option Test without padding).",
+    "options": [
+      "1. True",
+      "2. False"
+    ],
+    "answer": "1",
+    "explanation": "2-option quizzes pass validation directly withoutsdfsdfsdfsdfsd adding fake options!",
+    "difficulty_level": "Easy",
+    "exam_year": "2024",
+    "check_status": "checked"
+  }
 ]
