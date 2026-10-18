@@ -1,5 +1,14 @@
 {
   "repo": "new",
-  "total_quizzes_with_images": 0,
-  "quizzes": []
+  "total_quizzes_with_images": 1,
+  "quizzes": [
+    {
+      "id": "19_oct_26_537045",
+      "short_id": "537045",
+      "chapter_file": "newx_quiz1_19_october_test_new.json",
+      "question": "Which Himalayan pass connectsdfs Srinagar with Leh?",
+      "image": "images/q_537045.jpg",
+      "image_url": "https://raw.githubusercontent.com/quizmaster3181/new/main/images/q_537045.jpg"
+    }
+  ]
 }
