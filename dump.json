@@ -8,6 +8,7 @@
   "HOW_TO_CHOOSE_CHAPTER_ON_MOBILE": "OPTION 1 (New Chapter): Type a name in 'new_chapter' below to create a new chapter. OPTION 2 (Append to Existing Chapter): Simply DELETE the chapter name you want from 'existing_chapters_delete_one_to_select' below! OPTION 3 (Default): Leave both untouched to save into Today's Chapter (19_oct_26_chapter.json).",
   "new_chapter": "",
   "existing_chapters_delete_one_to_select": [
+    "newx_quiz3_19_october_himalayan_passes.json",
     "newx_quiz2_19_october_himalayan_passes.json",
     "newx_quiz1_19_october_test_new.json"
   ],
