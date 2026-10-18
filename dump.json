@@ -1,30 +1,14 @@
 {
   "dump_status": "HARVESTED_AND_CLEARED",
-  "last_harvested_ist": "19 Oct 2026, 02:55:43 AM IST",
+  "last_harvested_ist": "19 Oct 2026, 02:56:42 AM IST",
   "last_taken_count": 0,
   "last_duplicate_skipped_count": 1,
   "last_discarded_count": 0,
   "last_target_chapter": "None (1 duplicates skipped)",
   "HOW_TO_CHOOSE_CHAPTER_ON_MOBILE": "OPTION 1 (New Chapter): Type a name in 'new_chapter' below to create a new chapter. OPTION 2 (Append to Existing Chapter): Simply DELETE the chapter name you want from 'existing_chapters_delete_one_to_select' below! OPTION 3 (Default): Leave both untouched to save into Today's Chapter (19_oct_26_chapter.json).",
-  "new_chapter": "new_chapter",
+  "new_chapter": "",
   "existing_chapters_delete_one_to_select": [
     "newx_quiz1_19_october_new_test_quiz.json"
   ],
-  "questions": [{
-    "id": "19_oct_26_537045",
-    "question": "Which Himalayan pass connectsdfs Srinagar with Leh?",
-    "options": [
-      "1. Nathu La",
-      "2. Zoji La",
-      "3. Rohtang Pass",
-      "4. Shipki La"
-    ],
-    "answer": "2",
-    "explanation": "Zoji La is a high mounsdftain pass in the Himalayas connecting the Kashmir Valley to Ladakh.",
-    "difficulty_level": "Medium",
-    "exam_year": "UPSC 2022",
-    "check_status": "checked",
-    "image": "images/q_537045.jpg",
-    "image_url": "https://raw.githubusercontent.com/quizmaster3181/new/main/images/q_537045.jpg"
-  }]
+  "questions": []
 }
