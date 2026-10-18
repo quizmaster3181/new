@@ -1,14 +1,14 @@
 {
-  "dump_status": "HARVESTED_AND_CLEARED",
-  "last_harvested_ist": "19 Oct 2026, 02:59:19 AM IST",
-  "last_taken_count": 2,
+  "dump_status": "EMPTY_READY_FOR_MOBILE_PASTE",
+  "last_harvested_ist": "Never",
+  "last_taken_count": 0,
   "last_duplicate_skipped_count": 0,
   "last_discarded_count": 0,
-  "last_target_chapter": "mske_ner_19_oct_26_chapter.json (NEW_CHAPTER_TAG)",
+  "last_target_chapter": "None",
   "HOW_TO_CHOOSE_CHAPTER_ON_MOBILE": "OPTION 1 (New Chapter): Type a name in 'new_chapter' below to create a new chapter. OPTION 2 (Append to Existing Chapter): Simply DELETE the chapter name you want from 'existing_chapters_delete_one_to_select' below! OPTION 3 (Default): Leave both untouched to save into Today's Chapter (19_oct_26_chapter.json).",
   "new_chapter": "",
   "existing_chapters_delete_one_to_select": [
-    "newx_quiz1_19_october_new_test_quiz.json"
+    "mske_ner_19_oct_26_chapter.json"
   ],
   "questions": []
 }
